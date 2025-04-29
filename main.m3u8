@@ -13,4 +13,6 @@ fileSequence2.m4s
 fileSequence3.m4s
 #EXTINF:6.00000,	
 fileSequence4.m4s
+#EXTINF:6.00000,	
+fileSequence5.m4s
 #EXT-X-ENDLIST
